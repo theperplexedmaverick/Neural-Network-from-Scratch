@@ -1,2 +1,2 @@
 # Neural-Network-from-Scratch
-Neural Network Implementation from Scratch
+The repository contains a Neural Network Implementation from scratch with introductory concepts and explanations.
